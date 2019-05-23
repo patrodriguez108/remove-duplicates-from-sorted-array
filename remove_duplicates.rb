@@ -1,5 +1,5 @@
 def remove_duplicates(nums)
-
+  nums.uniq.length
 end
 
 remove_duplicates([1,1,2])
